@@ -1,6 +1,6 @@
 # Task list
 
-<img src="https://github.com/KatarzynaZoladek/homepage/blob/main/images/share.png?raw=true" width="300" height="200"/>
+<img src="https://raw.githubusercontent.com/KatarzynaZoladek/to-do-list/main/images/screenshot.png" width="600" height="300">
 
 ## Demo
 
